@@ -1,0 +1,1 @@
+# Priting-table-of-number-entered-by-user-using-function-in-python
